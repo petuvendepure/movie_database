@@ -1,0 +1,196 @@
+codigo_iso,nombre,continente
+AF,Afganistán,Asia
+AL,Albania,Europa
+DZ,Argelia,África
+AD,Andorra,Europa
+AO,Angola,África
+AG,Antigua y Barbuda,América
+AR,Argentina,América
+AM,Armenia,Asia
+AU,Australia,Oceanía
+AT,Austria,Europa
+AZ,Azerbaiyán,Asia
+BS,Bahamas,América
+BH,Bahréin,Asia
+BD,Bangladés,Asia
+BB,Barbados,América
+BY,Bielorrusia,Europa
+BE,Bélgica,Europa
+BZ,Belice,América
+BJ,Benín,África
+BT,Bután,Asia
+BO,Bolivia,América
+BA,Bosnia y Herzegovina,Europa
+BW,Botsuana,África
+BR,Brasil,América
+BN,Brunei,Asia
+BG,Bulgaria,Europa
+BF,Burkina Faso,África
+BI,Burundi,África
+CV,Cabo Verde,África
+KH,Camboya,Asia
+CM,Camerún,África
+CA,Canadá,América
+CF,República Centroafricana,África
+TD,Chad,África
+CL,Chile,América
+CN,China,Asia
+CY,Chipre,Asia
+CO,Colombia,América
+KM,Comoras,África
+CG,Congo,África
+CD,República Democrática del Congo,África
+CR,Costa Rica,América
+CI,Costa de Marfil,África
+HR,Croacia,Europa
+CU,Cuba,América
+DK,Dinamarca,Europa
+DJ,Yibuti,África
+DM,Dominica,América
+DO,República Dominicana,América
+EC,Ecuador,América
+EG,Egipto,África
+SV,El Salvador,América
+GQ,Guinea Ecuatorial,África
+ER,Eritrea,África
+EE,Estonia,Europa
+SZ,Esuatini,África
+ET,Etiopía,África
+FJ,Fiyi,Oceanía
+FI,Finlandia,Europa
+FR,Francia,Europa
+GA,Gabón,África
+GM,Gambia,África
+GE,Georgia,Asia
+DE,Alemania,Europa
+GH,Ghana,África
+GR,Grecia,Europa
+GD,Granada,América
+GT,Guatemala,América
+GN,Guinea,África
+GW,Guinea-Bisáu,África
+GY,Guyana,América
+HT,Haití,América
+HN,Honduras,América
+HU,Hungría,Europa
+IS,Islandia,Europa
+IN,India,Asia
+ID,Indonesia,Asia
+IR,Irán,Asia
+IQ,Irak,Asia
+IE,Irlanda,Europa
+IL,Israel,Asia
+IT,Italia,Europa
+JM,Jamaica,América
+JP,Japón,Asia
+JO,Jordania,Asia
+KZ,Kazajistán,Asia
+KE,Kenia,África
+KI,Kiribati,Oceanía
+KP,Corea del Norte,Asia
+KR,Corea del Sur,Asia
+XK,Kosovo,Europa
+KW,Kuwait,Asia
+KG,Kirguistán,Asia
+LA,Laos,Asia
+LV,Letonia,Europa
+LB,Líbano,Asia
+LS,Lesoto,África
+LR,Liberia,África
+LY,Libia,África
+LI,Liechtenstein,Europa
+LT,Lituania,Europa
+LU,Luxemburgo,Europa
+MG,Madagascar,África
+MW,Malaui,África
+MY,Malasia,Asia
+MV,Maldivas,Asia
+ML,Malí,África
+MT,Malta,Europa
+MH,Islas Marshall,Oceanía
+MR,Mauritania,África
+MU,Mauricio,África
+MX,México,América
+FM,Micronesia,Oceanía
+MD,Moldavia,Europa
+MC,Mónaco,Europa
+MN,Mongolia,Asia
+ME,Montenegro,Europa
+MA,Marruecos,África
+MZ,Mozambique,África
+MM,Birmania,Asia
+NA,Namibia,África
+NR,Nauru,Oceanía
+NP,Nepal,Asia
+NL,Países Bajos,Europa
+NZ,Nueva Zelanda,Oceanía
+NI,Nicaragua,América
+NE,Níger,África
+NG,Nigeria,África
+MK,Macedonia del Norte,Europa
+NO,Noruega,Europa
+OM,Omán,Asia
+PK,Pakistán,Asia
+PW,Palaos,Oceanía
+PA,Panamá,América
+PG,Papúa Nueva Guinea,Oceanía
+PY,Paraguay,América
+PE,Perú,América
+PH,Filipinas,Asia
+PL,Polonia,Europa
+PT,Portugal,Europa
+QA,Catar,Asia
+RO,Rumanía,Europa
+RU,Rusia,Europa
+RW,Ruanda,África
+KN,Saint Kitts y Nevis,América
+LC,Santa Lucía,América
+VC,San Vicente y las Granadinas,América
+WS,Samoa,Oceanía
+SM,San Marino,Europa
+ST,Santo Tomé y Príncipe,África
+SA,Arabia Saudita,Asia
+SN,Senegal,África
+RS,Serbia,Europa
+SC,Seychelles,África
+SL,Sierra Leona,África
+SG,Singapur,Asia
+SK,Eslovaquia,Europa
+SI,Eslovenia,Europa
+SB,Islas Salomón,Oceanía
+SO,Somalia,África
+ZA,Sudáfrica,África
+SS,Sudán del Sur,África
+ES,España,Europa
+LK,Sri Lanka,Asia
+SD,Sudán,África
+SR,Surinam,América
+SE,Suecia,Europa
+CH,Suiza,Europa
+SY,Siria,Asia
+TW,Taiwán,Asia
+TJ,Tayikistán,Asia
+TZ,Tanzania,África
+TH,Tailandia,Asia
+TL,Timor Oriental,Asia
+TG,Togo,África
+TO,Tonga,Oceanía
+TT,Trinidad y Tobago,América
+TN,Túnez,África
+TR,Turquía,Asia
+TM,Turkmenistán,Asia
+TV,Tuvalu,Oceanía
+UG,Uganda,África
+UA,Ucrania,Europa
+AE,Emiratos Árabes Unidos,Asia
+GB,Reino Unido,Europa
+US,Estados Unidos,América
+UY,Uruguay,América
+UZ,Uzbekistán,Asia
+VU,Vanuatu,Oceanía
+VA,Vaticano,Europa
+VE,Venezuela,América
+VN,Vietnam,Asia
+YE,Yemen,Asia
+ZM,Zambia,África
+ZW,Zimbabue,África

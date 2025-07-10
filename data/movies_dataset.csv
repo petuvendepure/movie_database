@@ -1,0 +1,101 @@
+id,title,year,director,genre,rating,duration,country,language,oscar_nominations
+1,A Resource,1999,Ridley Scott,Animación,2.8,172,Austria,Inglés,8
+2,Allow,1971,Alfred Hitchcock,Animación,1.1,123,Yemen,Alemán,1
+3,Indeed Professional,1999,Coen Brothers,Ciencia Ficción,6.8,117,Saint Barthelemy,Japonés,7
+4,Site Despite Final,1982,Francis Ford Coppola,Animación,7.3,121,San Marino,Inglés,5
+5,Mouth Know Attention,2013,Guillermo del Toro,Ciencia Ficción,2.6,118,Ecuador,Español,8
+6,Tough Factor,1969,Coen Brothers,Drama,7.9,99,South Africa,Español,3
+7,Size,1964,Coen Brothers,Comedia,6.0,105,Angola,Alemán,0
+8,Happy Determine,1969,Tim Burton,Aventura,3.9,103,Netherlands Antilles,Español,12
+9,Section Practice Human,1939,Ridley Scott,Romance,7.2,142,Lao People's Democratic Republic,Japonés,9
+10,Plant Develop,1978,Martin Scorsese,Animación,8.9,170,Lao People's Democratic Republic,Español,5
+11,Vote Figure Local,1989,Christopher Nolan,Documental,1.1,152,Rwanda,Alemán,7
+12,Expert Long Professor,1936,Spike Lee,Romance,1.9,100,Micronesia,Español,11
+13,Common Art Nice Security,2016,Francis Ford Coppola,Terror,3.9,129,Benin,Alemán,9
+14,Give Give,1928,Stanley Kubrick,Ciencia Ficción,1.4,98,Turkmenistan,Alemán,9
+15,Raise National,1931,Quentin Tarantino,Aventura,2.6,109,Jersey,Japonés,4
+16,Call Account,1943,Ridley Scott,Ciencia Ficción,8.5,105,Serbia,Inglés,7
+17,Wide Task Quality,1951,Martin Scorsese,Documental,7.9,155,Guatemala,Japonés,6
+18,Trip Say Much,2009,Stanley Kubrick,Drama,7.7,128,Georgia,Inglés,11
+19,Man Bit Together Left,2003,Francis Ford Coppola,Comedia,6.6,124,Andorra,Japonés,12
+20,Hospital Write,1960,Spike Lee,Drama,1.6,149,Namibia,Inglés,8
+21,Kind,1976,Guillermo del Toro,Acción,9.9,116,Saint Kitts and Nevis,Inglés,3
+22,Wrong Value,1977,Alfred Hitchcock,Comedia,1.9,132,Nepal,Alemán,7
+23,Oil Though Class,1988,James Cameron,Terror,8.8,119,Falkland Islands (Malvinas),Inglés,12
+24,Benefit Individual,1938,Stanley Kubrick,Romance,9.4,170,Svalbard & Jan Mayen Islands,Alemán,7
+25,Lay,2010,Quentin Tarantino,Terror,4.4,154,Fiji,Francés,5
+26,Top Resource Mission,2009,Alfred Hitchcock,Documental,1.3,133,Philippines,Japonés,9
+27,Receive Foot About,1921,Coen Brothers,Acción,9.7,164,Mozambique,Alemán,4
+28,Answer,1927,Alfred Hitchcock,Comedia,7.8,113,Tanzania,Francés,3
+29,Their Mention,1929,Steven Spielberg,Terror,1.2,159,Russian Federation,Francés,6
+30,Make Bill,1940,Tim Burton,Fantasia,7.2,102,Romania,Japonés,3
+31,Ask At Resource,2003,Paul Thomas Anderson,Animación,2.5,176,Guinea,Español,10
+32,Interview Interesting Short,1932,Martin Scorsese,Comedia,2.4,150,Tanzania,Francés,0
+33,Provide National Away,1975,Christopher Nolan,Romance,8.8,102,Cook Islands,Francés,4
+34,Often Only,1986,Steven Spielberg,Comedia,8.0,126,Cyprus,Francés,8
+35,Clear Home Entire,1926,Denis Villeneuve,Acción,6.2,147,Bangladesh,Inglés,3
+36,Executive Expect Make,1932,Wes Anderson,Drama,6.5,148,Lao People's Democratic Republic,Español,8
+37,Position Growth Hold,1952,Martin Scorsese,Animación,7.4,129,Ethiopia,Inglés,1
+38,Couple Indeed Practice,1973,Alfred Hitchcock,Comedia,6.0,140,Botswana,Francés,12
+39,Event Attorney,2003,Akira Kurosawa,Aventura,6.0,112,Bulgaria,Inglés,3
+40,Increase Staff Democrat Station,1986,Tim Burton,Fantasia,1.4,125,Guam,Inglés,8
+41,Receive Sort Else,1981,Wes Anderson,Acción,5.2,149,Djibouti,Alemán,11
+42,Kitchen Picture Drive,1978,Denis Villeneuve,Romance,3.3,106,Liberia,Español,5
+43,Success Fly,1935,Quentin Tarantino,Aventura,2.7,171,Finland,Inglés,8
+44,Property Against,1948,Peter Jackson,Comedia,9.0,96,Haiti,Español,10
+45,Sister Perhaps Current,2006,Coen Brothers,Romance,2.7,84,United Kingdom,Francés,12
+46,Trade,1927,Paul Thomas Anderson,Drama,7.2,169,Benin,Español,10
+47,Those Operation,1942,David Fincher,Comedia,6.4,96,Djibouti,Alemán,5
+48,Baby Nor,1948,Coen Brothers,Animación,8.0,84,Vietnam,Inglés,12
+49,Some Artist Personal,1951,Martin Scorsese,Terror,2.0,89,Faroe Islands,Francés,9
+50,Special Child,1926,James Cameron,Aventura,3.6,126,San Marino,Inglés,5
+51,Much Option Music,2008,Francis Ford Coppola,Romance,7.7,134,Lao People's Democratic Republic,Inglés,2
+52,Test Worry,1924,Stanley Kubrick,Romance,7.0,171,Martinique,Francés,12
+53,Amount Letter,1981,Denis Villeneuve,Aventura,2.6,171,Mexico,Español,12
+54,Build Activity Happy,2002,Alfred Hitchcock,Acción,9.6,169,Montserrat,Japonés,6
+55,Fire Interesting Rather,1948,David Fincher,Drama,7.5,161,Niue,Inglés,5
+56,Its,1955,Denis Villeneuve,Animación,3.7,162,Reunion,Japonés,1
+57,Partner Language,1991,Steven Spielberg,Fantasia,2.4,146,Moldova,Francés,5
+58,Save His Design,1940,Steven Spielberg,Documental,6.8,116,Serbia,Inglés,4
+59,Win Can Career,1988,Steven Spielberg,Romance,2.1,94,Serbia,Francés,4
+60,Class,1977,Paul Thomas Anderson,Animación,9.8,123,Peru,Español,6
+61,Use Reason,1969,Stanley Kubrick,Acción,1.5,148,Venezuela,Alemán,0
+62,Sister Situation Quality,1925,Steven Spielberg,Comedia,6.3,107,South Georgia and the South Sandwich Islands,Alemán,7
+63,This Well,2016,Tim Burton,Terror,9.8,148,Myanmar,Francés,5
+64,List Rock Meeting,1937,Wes Anderson,Ciencia Ficción,1.7,164,Costa Rica,Inglés,9
+65,Something Will Study,2006,Coen Brothers,Comedia,2.7,148,France,Inglés,9
+66,Main More Yet,1959,Akira Kurosawa,Romance,4.3,145,Papua New Guinea,Inglés,3
+67,Game Final Almost,1993,Francis Ford Coppola,Terror,8.5,149,Samoa,Japonés,12
+68,Science Gun Pretty Follow,1992,Steven Spielberg,Drama,7.3,151,Portugal,Francés,2
+69,Sport Public Serious,1949,Wes Anderson,Aventura,1.9,133,Bahrain,Francés,1
+70,Door Agreement,1993,Quentin Tarantino,Aventura,2.2,140,Papua New Guinea,Alemán,5
+71,Two Capital Arrive Lose,1961,Tim Burton,Comedia,2.4,133,Kuwait,Japonés,2
+72,Walk Now Course,2018,David Fincher,Acción,5.9,162,Israel,Alemán,12
+73,Hear Ready,1928,Hayao Miyazaki,Romance,9.0,133,United States of America,Español,6
+74,Politics Election Pm,1935,Stanley Kubrick,Fantasia,3.0,140,South Africa,Japonés,9
+75,Throw Rate Stay,1996,Alfred Hitchcock,Acción,2.4,152,Afghanistan,Inglés,12
+76,Staff Say For Somebody,2009,Alfred Hitchcock,Terror,5.5,158,Somalia,Japonés,5
+77,Consider Customer,1982,Hayao Miyazaki,Terror,4.1,103,Bouvet Island (Bouvetoya),Japonés,3
+78,Air Become When Many,1952,Peter Jackson,Romance,3.9,100,Comoros,Inglés,9
+79,Democratic Try,1973,Christopher Nolan,Terror,4.8,120,Madagascar,Español,8
+80,Plant Know,1990,Paul Thomas Anderson,Drama,2.6,104,Equatorial Guinea,Alemán,8
+81,Rather Data,2008,James Cameron,Comedia,7.6,163,Macao,Alemán,5
+82,Almost Concern Difficult Since,1968,David Fincher,Romance,8.4,113,Malaysia,Español,0
+83,Everything Decide Family,1974,Spike Lee,Fantasia,5.1,103,Mongolia,Inglés,2
+84,Indeed Determine,1933,Guillermo del Toro,Ciencia Ficción,2.3,154,South Africa,Japonés,3
+85,Thought,2005,Stanley Kubrick,Drama,2.5,126,Benin,Español,8
+86,Data Model Party,1957,Steven Spielberg,Ciencia Ficción,9.6,116,Zambia,Alemán,4
+87,Hundred Raise,1962,Hayao Miyazaki,Terror,10.0,171,Tajikistan,Alemán,3
+88,Clearly Court Daughter,1964,Guillermo del Toro,Aventura,5.7,86,Zimbabwe,Español,0
+89,Third Accept,1993,Coen Brothers,Animación,8.3,160,Sweden,Inglés,3
+90,Current Office,1923,Hayao Miyazaki,Animación,8.4,127,Madagascar,Español,2
+91,Tend Activity Thus,1980,Quentin Tarantino,Terror,3.8,178,Austria,Japonés,0
+92,Least Foreign Can,1976,Ridley Scott,Romance,2.7,149,Benin,Español,10
+93,Next Soldier Feeling,1988,Martin Scorsese,Documental,1.8,120,Swaziland,Francés,8
+94,Fall Full Center,1956,Stanley Kubrick,Fantasia,8.5,126,Japan,Francés,7
+95,Hundred Total,1927,Denis Villeneuve,Terror,9.7,86,Oman,Japonés,0
+96,Executive Country Machine,2009,Francis Ford Coppola,Aventura,7.7,134,Saint Pierre and Miquelon,Japonés,10
+97,Television Might Politics,1927,Peter Jackson,Ciencia Ficción,1.6,107,Heard Island and McDonald Islands,Alemán,2
+98,Tend Member Sit,1921,Denis Villeneuve,Romance,8.1,96,Japan,Francés,2
+99,Career Floor General When,1997,Paul Thomas Anderson,Romance,5.7,173,Solomon Islands,Alemán,0
+100,Meeting Yes,1979,Paul Thomas Anderson,Fantasia,7.2,167,Kyrgyz Republic,Japonés,8

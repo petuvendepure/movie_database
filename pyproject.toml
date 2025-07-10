@@ -1,0 +1,25 @@
+## pyproject.toml - Configuración Moderna
+
+```toml
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "movie_database"
+version = "1.0.0"
+description = "Sistema de gestión de películas"
+authors = [{name = "Tu Nombre", email = "tu@email.com"}]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=1.3.0",
+    "pydantic>=2.0",
+    "tabulate>=0.8.0"
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "pytest-cov", "ipython"]
+
+[project.urls]
+Homepage = "https://github.com/petuniavendepure/movie_database"
