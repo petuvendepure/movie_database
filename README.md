@@ -1,8 +1,8 @@
-# 🎬 Sistema de Gestión de Películas [![PyPI Version](https://img.shields.io/pypi/v/movie-database)](https://pypi.org/project/movie-database/)
+# 🎬 Sistema de Gestión de Películas [![PyPI Version](https://img.shields.io/pypi/v/movie-database)]
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Tests](https://github.com/tuusuario/movie_database/actions/workflows/tests.yml/badge.svg)](https://github.com/tuusuario/movie_database/actions)
+
 
 Un sistema completo para gestionar tu colección de películas con validación de datos y búsqueda avanzada.
 
