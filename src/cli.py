@@ -74,6 +74,13 @@ class MovieCLI:
         filters = {}
         if input("¿Buscar por título? (s/n): ").lower() == 's':
             filters['title'] = input("Título: ")
+        if input("¿Buscar por Año? (s/n): ").lower() == 's':
+            filters['year'] = int(input("Año: "))
+        if input("¿Buscar por Director? (s/n): ").lower() == 's':
+            filters['director'] = input("Director: ")
+        if input("¿Buscar por Lenguaje? (s/n): ").lower() == 's':
+            filters['language'] = input("Lenguaje: ")
+            
         # Añadir más filtros según necesidad...
         
         filtered = self.db.filter_movies(**filters)
