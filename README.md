@@ -56,7 +56,7 @@ pip install -r requirements.txt
 python -m src.cli
 ```
 ## 📚 Estructura del Proyecto
-
+```bash
 movie_database/
 │
 ├── src/                          # Código fuente principal
@@ -85,7 +85,7 @@ movie_database/
 ├── requirements.txt              # Dependencias requeridas
 ├── pyproject.toml                # Configuración del proyecto
 └── setup.py                      # Configuración de paquete (opcional)
-
+```
 ## ⚙️ Configuración
 
 El sistema se configura mediante `src/config.py`:
